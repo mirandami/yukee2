@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/yukee/static/css/main.273ed03c.chunk.css",
+    "main.js": "/yukee/static/js/main.ba9c6f8d.chunk.js",
+    "main.js.map": "/yukee/static/js/main.ba9c6f8d.chunk.js.map",
+    "runtime-main.js": "/yukee/static/js/runtime-main.b9b1147a.js",
+    "runtime-main.js.map": "/yukee/static/js/runtime-main.b9b1147a.js.map",
+    "static/js/2.d4066f81.chunk.js": "/yukee/static/js/2.d4066f81.chunk.js",
+    "static/js/2.d4066f81.chunk.js.map": "/yukee/static/js/2.d4066f81.chunk.js.map",
+    "index.html": "/yukee/index.html",
+    "precache-manifest.5321f2c29f1cdfdb5e0226798642e886.js": "/yukee/precache-manifest.5321f2c29f1cdfdb5e0226798642e886.js",
+    "service-worker.js": "/yukee/service-worker.js",
+    "static/css/main.273ed03c.chunk.css.map": "/yukee/static/css/main.273ed03c.chunk.css.map",
+    "static/js/2.d4066f81.chunk.js.LICENSE.txt": "/yukee/static/js/2.d4066f81.chunk.js.LICENSE.txt",
+    "static/media/4-pic.png": "/yukee/static/media/4-pic.5d033f19.png",
+    "static/media/785.jpg": "/yukee/static/media/785.bf623649.jpg",
+    "static/media/IMG_3959.JPG": "/yukee/static/media/IMG_3959.26839160.JPG",
+    "static/media/main.css": "/yukee/static/media/IMG_3963.736df33f.JPG",
+    "static/media/IMG_3964.JPG": "/yukee/static/media/IMG_3964.d78d47c5.JPG",
+    "static/media/IMG_3986.JPG": "/yukee/static/media/IMG_3986.b0df58ba.JPG",
+    "static/media/IMG_4051.JPG": "/yukee/static/media/IMG_4051.b752da37.JPG",
+    "static/media/IMG_4054.JPG": "/yukee/static/media/IMG_4054.1df4bda1.JPG",
+    "static/media/IMG_4055.JPG": "/yukee/static/media/IMG_4055.b55719ef.JPG",
+    "static/media/IMG_4058.JPG": "/yukee/static/media/IMG_4058.434858d3.JPG",
+    "static/media/IMG_4059.JPG": "/yukee/static/media/IMG_4059.ddad2545.JPG",
+    "static/media/IMG_4061.JPG": "/yukee/static/media/IMG_4061.17c86c8d.JPG",
+    "static/media/IMG_4062.JPG": "/yukee/static/media/IMG_4062.42e6b576.JPG",
+    "static/media/WechatIMG107.jpeg": "/yukee/static/media/WechatIMG107.fba25178.jpeg",
+    "static/media/yukee-background.mp4": "/yukee/static/media/yukee-background.c5e78a2a.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b9b1147a.js",
+    "static/js/2.d4066f81.chunk.js",
+    "static/css/main.273ed03c.chunk.css",
+    "static/js/main.ba9c6f8d.chunk.js"
+  ]
+}
