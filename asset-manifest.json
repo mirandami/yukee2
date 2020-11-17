@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yukee2/static/css/main.5cb076e3.chunk.css",
-    "main.js": "/yukee2/static/js/main.ef19750f.chunk.js",
-    "main.js.map": "/yukee2/static/js/main.ef19750f.chunk.js.map",
+    "main.js": "/yukee2/static/js/main.9b8a7684.chunk.js",
+    "main.js.map": "/yukee2/static/js/main.9b8a7684.chunk.js.map",
     "runtime-main.js": "/yukee2/static/js/runtime-main.e279be5b.js",
     "runtime-main.js.map": "/yukee2/static/js/runtime-main.e279be5b.js.map",
     "static/js/2.b5400a2a.chunk.js": "/yukee2/static/js/2.b5400a2a.chunk.js",
     "static/js/2.b5400a2a.chunk.js.map": "/yukee2/static/js/2.b5400a2a.chunk.js.map",
     "index.html": "/yukee2/index.html",
-    "precache-manifest.4f6745130b1c6b1e08217436dfbc4b7c.js": "/yukee2/precache-manifest.4f6745130b1c6b1e08217436dfbc4b7c.js",
+    "precache-manifest.09429ed0db68bc2d69e2366fa7975c2f.js": "/yukee2/precache-manifest.09429ed0db68bc2d69e2366fa7975c2f.js",
     "service-worker.js": "/yukee2/service-worker.js",
     "static/css/main.5cb076e3.chunk.css.map": "/yukee2/static/css/main.5cb076e3.chunk.css.map",
     "static/js/2.b5400a2a.chunk.js.LICENSE.txt": "/yukee2/static/js/2.b5400a2a.chunk.js.LICENSE.txt",
@@ -32,6 +32,6 @@
     "static/js/runtime-main.e279be5b.js",
     "static/js/2.b5400a2a.chunk.js",
     "static/css/main.5cb076e3.chunk.css",
-    "static/js/main.ef19750f.chunk.js"
+    "static/js/main.9b8a7684.chunk.js"
   ]
 }
