@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7035cfe3c340118aa1d0e0fbbc64a4b4",
+    "revision": "4d715d39d2bd3a99ddaf1c5a251310ee",
     "url": "/yukee2/index.html"
   },
   {
-    "revision": "d5821cc7d709688b0aeb",
-    "url": "/yukee2/static/css/main.4a96dccb.chunk.css"
+    "revision": "410495b709eb54874184",
+    "url": "/yukee2/static/css/main.5cb076e3.chunk.css"
   },
   {
-    "revision": "8e333b20cd5e0862aa53",
-    "url": "/yukee2/static/js/2.d4066f81.chunk.js"
+    "revision": "57c6719f955e20111c56",
+    "url": "/yukee2/static/js/2.65c30763.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/yukee2/static/js/2.d4066f81.chunk.js.LICENSE.txt"
+    "url": "/yukee2/static/js/2.65c30763.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "d5821cc7d709688b0aeb",
-    "url": "/yukee2/static/js/main.ba9c6f8d.chunk.js"
+    "revision": "410495b709eb54874184",
+    "url": "/yukee2/static/js/main.9d424920.chunk.js"
   },
   {
     "revision": "f182c7a666851f81550b",
