@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/yukee2/static/css/main.5d888f83.chunk.css",
+    "main.css": "/yukee2/static/css/main.aa1b3ebb.chunk.css",
     "main.js": "/yukee2/static/js/main.9b8a7684.chunk.js",
     "main.js.map": "/yukee2/static/js/main.9b8a7684.chunk.js.map",
     "runtime-main.js": "/yukee2/static/js/runtime-main.e279be5b.js",
@@ -8,9 +8,9 @@
     "static/js/2.b5400a2a.chunk.js": "/yukee2/static/js/2.b5400a2a.chunk.js",
     "static/js/2.b5400a2a.chunk.js.map": "/yukee2/static/js/2.b5400a2a.chunk.js.map",
     "index.html": "/yukee2/index.html",
-    "precache-manifest.82cea8ea31464470a267a0b4acf2ea02.js": "/yukee2/precache-manifest.82cea8ea31464470a267a0b4acf2ea02.js",
+    "precache-manifest.b5d65bd25248ff262f5b6bac6cbf324c.js": "/yukee2/precache-manifest.b5d65bd25248ff262f5b6bac6cbf324c.js",
     "service-worker.js": "/yukee2/service-worker.js",
-    "static/css/main.5d888f83.chunk.css.map": "/yukee2/static/css/main.5d888f83.chunk.css.map",
+    "static/css/main.aa1b3ebb.chunk.css.map": "/yukee2/static/css/main.aa1b3ebb.chunk.css.map",
     "static/js/2.b5400a2a.chunk.js.LICENSE.txt": "/yukee2/static/js/2.b5400a2a.chunk.js.LICENSE.txt",
     "static/media/4-pic.png": "/yukee2/static/media/4-pic.5d033f19.png",
     "static/media/785.jpg": "/yukee2/static/media/785.bf623649.jpg",
@@ -31,7 +31,7 @@
   "entrypoints": [
     "static/js/runtime-main.e279be5b.js",
     "static/js/2.b5400a2a.chunk.js",
-    "static/css/main.5d888f83.chunk.css",
+    "static/css/main.aa1b3ebb.chunk.css",
     "static/js/main.9b8a7684.chunk.js"
   ]
 }
