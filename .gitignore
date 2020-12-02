@@ -22,5 +22,5 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
-/src/pic
-/src/yukee-background.mp4
+#/src/pic
+#/src/yukee-background.mp4
